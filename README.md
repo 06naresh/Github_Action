@@ -1,4 +1,4 @@
-# GitHub Actions Practice Examples
+# GitHub Actions Practice 
 
 This repository contains hands-on examples and workflows created while practicing **GitHub Actions**.  
 It serves as a learning space to explore automation, CI/CD pipelines, and workflow customization using GitHub’s native automation platform.
