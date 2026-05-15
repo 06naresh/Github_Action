@@ -11,10 +11,10 @@ It serves as a learning space to explore automation, CI/CD pipelines, and workfl
 ## ⚙️ What’s Covered
 - Running jobs on different operating systems.
 - Using actions from the GitHub Marketplace.
-- Automating builds and tests.
-- Setting up CI/CD pipelines.
-- Workflow triggers (push, pull request, schedule, etc.).
-- Secrets and environment variables.
+- Automating builds and tests
+- Setting up CI/CD pipelines
+- Workflow triggers (push, pull request, schedule, etc.)
+- Secrets and environment variables
 
 ## 🎯 Purpose
 The goal of this repository is to **practice and demonstrate GitHub Actions** through simple, reproducible examples.  
